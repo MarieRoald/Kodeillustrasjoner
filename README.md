@@ -16,3 +16,5 @@ Ja, men hvis du deler dette materiellet med andre er det 3 kriterier
 
 ### til noe jeg skal tjene penger på?
 Da må du kontakte meg og be om lov først.
+
+## Utvalgte illustrasjoner:

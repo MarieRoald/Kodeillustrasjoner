@@ -4,7 +4,7 @@ Dette er en samling med illustrasjoner for programmering- og realfagsundervisnin
 Alle illustrasjoner lisensert med en Attribution-NonCommercial-ShareAlike 4.0 lisens.
 
 ## Kan jeg bruke illustrasjonene ...
-### i undervisning?
+### i undervisning i skolen eller på universitet?
 Ja, så fremt du krediterer meg og denne nettsiden.
 
 

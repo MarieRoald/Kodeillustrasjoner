@@ -34,17 +34,17 @@ Da må du kontakte meg og be om lov først.
 
 ### Arrays
 #### Indeksering
-<img src="array/array_indeksering.png" alt="Array indeksering">
+<img src="array/array_indekser.png" alt="Array indeksering">
 
 ### Derivasjon
 #### Stoppeklokker
-<img src="derivasjon/stoppeklokker.svg" alt="Array indeksering">
+<img src="derivasjon/stoppeklokker.svg" alt="Array indeksering" height="200px">
 
 #### Fart
-<img src="derivasjon/fart.svg" alt="Speedometer er lik strekning over tid">
+<img src="derivasjon/fart.svg" alt="Speedometer er lik strekning over tid" height="400px">
 
 #### Array slicing
-<img src="derivasjon/slicing.png" alt="Array slicing">
+<img src="derivasjon/slicing.png" alt="Array slicing" height="400px">
 
 ### Rovdyr byttedyr
 #### Øyillustrasjoner

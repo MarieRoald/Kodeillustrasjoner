@@ -21,41 +21,46 @@ Da må du kontakte meg og be om lov først.
 
 ### Robot og barn koder
 #### Robot baker
-![Robot baker](robot_koder/robotkokk.svg)
-#### Robot leser bok
-![Robot bygger lego](robot_koder/robot_leser_bok.svg)
+<img src="robot_koder/robotkokk.svg" alt="Robotkokk" height="400px">
+
+#### Robot leser kode
+<img src="robot_koder/robot_leser_kode.svg" alt="Robot leser kode" height="400px">
+
 #### Robot bygger lego
-![Robot bygger lego](robot_koder/robot_med_lego.svg)
+<img src="robot_koder/robot_med_lego.svg" alt="Robot bygger lego" height="400px">
+
 #### Barn koder
-![Barn koder](robot_koder/barn_koder.svg)
+<img src="robot_koder/barn_koder.svg" alt="Barn koder" height="400px">
 
 ### Arrays
 #### Indeksering
-![Array indeksering](array/array_indekser.png)
+<img src="array/array_indeksering.png" alt="Array indeksering">
 
 ### Derivasjon
 #### Stoppeklokker
-![Stoppeklokker](derivasjon/stoppeklokker.svg)
+<img src="derivasjon/stoppeklokker.svg" alt="Array indeksering">
 
 #### Fart
-![Speedometer er lik strekning over tid](derivasjon/fart.svg)
+<img src="derivasjon/fart.svg" alt="Speedometer er lik strekning over tid">
 
 #### Array slicing
-![Array slicing](derivasjon/slicing.png)
+<img src="derivasjon/slicing.png" alt="Array slicing">
 
 ### Rovdyr byttedyr
 #### Byttedyr-likninger
-![Byttedyr likninger](rovdyr_byttedyr/byttedyr_likning.png)
-#### Rovdyr-likninger
-![Rovdyr likninger](rovdyr_byttedyr/rovdyr_likning.png)
-#### Øyillustrasjoner
-![Øy med byttedyr](rovdyr_byttedyr/øy_med_byttedyr.svg)
-![Øy med mange byttedyr](rovdyr_byttedyr/øy_med_mange_byttedyr.svg)
-![Øy med rovdyr og byttedyr](rovdyr_byttedyr/øy_med_byttedyr_og_rovdyr.svg)
+<img src="rovdyr_byttedyr/byttedyr_likning.png" alt="Byttedyr likninger">
 
+#### Rovdyr-likninger
+<img src="rovdyr_byttedyr/rovdyr_likning.png" alt="Rovdyr likninger">
+
+#### Øyillustrasjoner
+<img src="rovdyr_byttedyr/øy_med_byttedyr.svg" alt="Øy med byttedyr" width="200px">
+<img src="rovdyr_byttedyr/øy_med_mange_byttedyr.svg" alt="Øy med for mange byttedyr" width="200px">
+<img src="rovdyr_byttedyr/øy_med_byttedyr_og_rovdyr.svg" alt="Øy med rovdyr og byttedyr" width="200px">
 
 ### Finne pi fra dartkast
-![Blink](pi_fra_dartkast/blink.png)
-![Dart i blinken](pi_fra_dartkst/dart_koordinater.png)
-![Dart med Pytagoras](pi_fra_dartkast/dart_pytagoras.png)
+<img src="pi_fra_dartkast/blink.png" alt="Blink" height="400px">
+<img src="pi_fra_dartkast/dart_koordinater.png" alt="Dart i blinken" height="400px">
+<img src="pi_fra_dartkast/dart_pytagoras.png" alt="Dart med Pytagoras" height="400px">
+
 En PowerPoint presentasjon som bruker disse illustrasjonene for å forklare hvordan man kan estimere pi fra dartkast kan du finne på GitHub siden til [Kodeskolen sitt kurs for Teknalærere](https://github.com/kodeskolen/tekna_v20). Presentasjonen er [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/pi_estimering_slides.pptx)

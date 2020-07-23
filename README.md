@@ -47,14 +47,14 @@ Da må du kontakte meg og be om lov først.
 <img src="derivasjon/slicing.png" alt="Array slicing">
 
 ### Rovdyr byttedyr
+#### Øyillustrasjoner
+<img src="rovdyr_byttedyr/øy_med_byttedyr.svg" alt="Øy med byttedyr" width="200px"> <img src="rovdyr_byttedyr/øy_med_mange_byttedyr.svg" alt="Øy med for mange byttedyr" width="200px"> <img src="rovdyr_byttedyr/øy_med_byttedyr_og_rovdyr.svg" alt="Øy med rovdyr og byttedyr" width="200px">
+
 #### Byttedyr-likninger
 <img src="rovdyr_byttedyr/byttedyr_likning.png" alt="Byttedyr likninger">
 
 #### Rovdyr-likninger
 <img src="rovdyr_byttedyr/rovdyr_likning.png" alt="Rovdyr likninger">
-
-#### Øyillustrasjoner
-<img src="rovdyr_byttedyr/øy_med_byttedyr.svg" alt="Øy med byttedyr" width="200px"> <img src="rovdyr_byttedyr/øy_med_mange_byttedyr.svg" alt="Øy med for mange byttedyr" width="200px"> <img src="rovdyr_byttedyr/øy_med_byttedyr_og_rovdyr.svg" alt="Øy med rovdyr og byttedyr" width="200px">
 
 ### Finne pi fra dartkast
 <img src="pi_fra_dartkast/blink.png" alt="Blink" height="400px">

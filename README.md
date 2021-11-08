@@ -62,3 +62,14 @@ Da må du kontakte meg og be om lov først.
 <img src="pi_fra_dartkast/dart_pytagoras.png" alt="Dart med Pytagoras" height="400px">
 
 En PowerPoint presentasjon som bruker disse illustrasjonene for å forklare hvordan man kan estimere pi fra dartkast kan du finne på GitHub siden til [Kodeskolen sitt kurs for Teknalærere](https://github.com/kodeskolen/tekna_v20). Presentasjonen er [her](https://github.com/kodeskolen/tekna_v20/blob/master/dag1/pi_estimering_slides.pptx)
+
+### Skattekart-metafor for kodeundervisning
+<img src="skattekart/1.skattekart_start.png" alt="Tomt skattekart" height="400px">
+<img src="skattekart/2.skattekart_rettfrem.png" alt="Skattekart rett frem" height="400px">
+<img src="skattekart/3.skattekart_bukt.png" alt="Skattekart med bukt" height="400px">
+<img src="skattekart/4.skattekart_grotte.png" alt="Skattekart med bukt og grotte" height="400px">
+<img src="skattekart/5.skattekart_klippe.png" alt="Skattekart med bukt, grotte og klippe" height="400px">
+<img src="skattekart/6.skattekart_myr.png" alt="Skattekart med bukt, grotte, klippe, myr" height="400px">
+<img src="skattekart/7.skattekart_skog.png" alt="Skattekart med bukt, grotte, klippe, myr, skog" height="400px">
+<img src="skattekart/8.skattekart_vinglete.png" alt="Vinglete vei igjennom skattekartet" height="400px">
+<img src="skattekart/9.skattekart_ekstra.png" alt="Faktisk tur igjennom skattekartet hvor man går i sirkel mange ganger" height="400px">
